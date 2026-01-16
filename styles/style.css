@@ -1,5 +1,5 @@
 .page {
-  /* Adicione as propriedades da classe page aqui */
+
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
@@ -20,7 +20,7 @@
 }
 
 .nav {
-  /* Adicione as propriedades flex aqui */
+
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -32,7 +32,7 @@
 }
 
 .nav__links {
-  /* Redefina o estilo de listas padrão aqui */
+
   margin: 8px 0 0;
   display: flex;
   column-gap: 20px;
@@ -47,7 +47,7 @@
 }
 
 .header__content {
-  /* Adicione as propriedades flex aqui */
+
   display: flex;
   justify-content: space-between;
 
@@ -118,7 +118,7 @@
   color: #ffffff;
 }
 
-/* adicionar a regra CSS para sua nova classe aqui. Certifique-se de colocar antes de .card: os pais devem preceder seus filhos */
+
 .staff__cards {
   max-width: 760px;
   margin: 0 auto;
@@ -250,31 +250,31 @@
 }
 
 .person_name_feynman {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
+
   top: -30px;
   left: 319px;
 }
 
 .person_name_burbidge {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
+
   top: 96px;
   right: 125px;
 }
 
 .person_name_cannon {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
+
   bottom: 18px;
   right: 216px;
 }
 
 .person_name_mitchell {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
+
   bottom: 82px;
   left: 142px;
 }
 
 .person_name_tarter {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
+
   top: 79px;
   left: 159px;
 }
@@ -328,7 +328,7 @@
 }
 
 .step {
-  /* Adicione estilos */
+
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -385,7 +385,7 @@
 }
 
 .footer__list {
-  /* O código abaixo remove os estilos do navegador padrão para listas */
+
   list-style-type: none;
   padding: 0;
   margin: 0;
